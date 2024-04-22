@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey">#FF808080</color>
+    <color name="greyWith20opacity">#33808080</color>
+    <color name="primary">#FFFE724C</color>
+    <color name="titleColor">#FF111719</color>
+    <color name="descriptionColor">#FF30384F</color>
+    <color name="optionDescriptionColor">#FF5B5B5E</color>
+    <color name="titleFormColor">#FF9796A1</color>
+    <color name="inputFormColor">#FF111719</color>
+    <color name="hintInputFormColor">#FFC4C4C4</color>
+    <color name="whiteAsHeavenColor">#FFFEFEFE</color>
+    <color name="whiteWith50opacity">#80FFFFFF</color>
+    <color name="whiteWith21opacity">#36FFFFFF</color>
+    <color name="buttonColor">#FF5B5B5E</color>
+    <color name="clickEfect">#FF808080</color>
+</resources>

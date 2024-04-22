@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "752543867503",
+    "project_id": "foodhubandroid",
+    "storage_bucket": "foodhubandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752543867503:android:38c534b042490d42f5639a",
+        "android_client_info": {
+          "package_name": "com.james.foodhub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752543867503-hg4n0pntm3orajpf5svfg4bfn2nvr3fg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.james.foodhub",
+            "certificate_hash": "60791836185f4a1db809af0cbf984d300e574cb6"
+          }
+        },
+        {
+          "client_id": "752543867503-75m6qnfosucit8am1n4216666f2dh5i2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9MQDbQG3OjvL-_7VcT4HgpFleUB0laYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752543867503-75m6qnfosucit8am1n4216666f2dh5i2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
